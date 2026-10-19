@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sachin",
+      "email": "sachin@gmail.com",
+      "course": "React"
+    },
+    {
+      "name": "Pankaj",
+      "email": "pankaj@gmail.com",
+      "course": "MCA",
+      "id": 3
+    },
+    {
+      "name": "Paul",
+      "email": "paul@gmail.com",
+      "course": "React",
+      "id": 4
+    }
+  ]
+}
